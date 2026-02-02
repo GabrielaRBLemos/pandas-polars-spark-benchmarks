@@ -2,3 +2,4 @@ pandas
 polars
 numpy
 matplotlib
+pyspark
